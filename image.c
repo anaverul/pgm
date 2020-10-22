@@ -51,9 +51,3 @@ int main(int argc, char* argv[])
     fclose(negative_image_pointer);
     return 0;
 }
-/** CS310 Project 1
-File: image.c
-Name: Ana Verulidze
-Date: 10/17/20
-Collaboration Declaration: assistance received from Liam, Dipesh
-*/
